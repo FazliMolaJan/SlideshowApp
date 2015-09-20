@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SlidiShow</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sliding_show_editor">SlidingShowEditor</string>
+    <string name="title_activity_vewing_sliding">VewingSliding</string>
+    <string name="title_activity_picture_tracker">PictureTracker</string>
+</resources>
